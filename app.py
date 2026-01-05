@@ -1,4 +1,4 @@
-name = input("Enter your name: ")
+gitname = input("Enter your name: ")
 age = int(input("Enter your age: "))
 
 print("Hello",Ajay pate name)
